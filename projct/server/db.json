@@ -4,49 +4,65 @@
       "id": 1,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2021/08/Du-an-moi-3-300x300.png",
       "title": "Cà phê G7 hòa tan đen",
-      "price": 41
+      "productCode": "CAPHEBOT",
+      "price": 41,
+      "status": "Còn hàng"
     },
     {
       "id": 2,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2021/08/6-300x300.jpg",
       "title": "G7 2in 1 hộp 15 sachets ",
-      "price": 38
+      "price": 38,
+      "productCode": "CAPHEBOT",
+      "status": "Còn hàng"
     },
     {
       "id": 3,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2021/08/g7-3in1-21-goi-300x300.jpg",
       "title": "Cà phê G7 3in1 - hộp 21 gói",
-      "price": 45
+      "price": 45,
+      "productCode": "CAPHEBOT",
+      "status": "Còn hàng"
     },
     {
       "id": 4,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2021/08/Du-an-moifsd-300x300.png",
       "title": "Legend Special Edition 9 sticks",
-      "price": 43
+      "price": 43,
+      "productCode": "CAPHEBOT",
+      "status": "Còn hàng"
     },
     {
       "id": 5,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2021/08/4-300x300.jpg",
       "title": "G7 Gu mạnh X2 3in1 - Hộp 12 gói",
-      "price": 47
+      "price": 47,
+      "productCode": "CAPHEBOT",
+      "status": "Còn hàng"
     },
     {
       "id": 6,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2021/08/Classic-bich-50g-22969-300x300.jpg",
       "title": "Legend Classic-Bịch 50 gói",
-      "price": 49
+      "price": 49,
+      "productCode": "CAPHEBOT",
+      "status": "Còn hàng"
     },
     {
       "id": 7,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2024/01/G7-GOLD-PICASSIO-HOP-300x300.png",
       "title": "G7 GOLD PICASOO",
-      "price": 42
+      "price": 42,
+      "productCode": "CAPHEBOT",
+      "status": "Còn hàng"
     },
     {
       "id": 8,
       "image": "https://trungnguyenlegendcafe.net/wp-content/uploads/2024/01/G7-GOLD-RUMI-HOP-300x300.png",
       "title": "G7 GOLD RUMI",
-      "price": 46
+      "price": 46,
+      "productCode": "CAPHEBOT",
+      "status": "Còn hàng"
     }
   ],
   "users": [
@@ -78,19 +94,10 @@
       "status": 0
     },
     {
-      "name": "hoang2005",
-      "email": "hoang2005@gmail.com",
-      "created_at": "06/07/2024 22:46:32",
-      "address": "",
-      "status": 0,
-      "password": "hoang2005",
-      "id": 4
-    },
-    {
       "name": "Quynnz",
       "email": "quynhhhhhh07@gmail.com",
       "created_at": "07/07/2024 00:57:45",
-      "address": "",
+      "address": "Quảng Ninh",
       "status": 0,
       "password": "123456",
       "id": 5
